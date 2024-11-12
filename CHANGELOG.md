@@ -2,11 +2,12 @@
 
 ## Unreleased
 
+## 15.3.0
+- Add rust_server feature to glean_parser to allow Rust server-side metrics ([#772](https://github.com/mozilla/glean_parser/pull/772))
+
 ## 15.2.1
 
 - Allow earlier versions of platformdirs ([#769](https://github.com/mozilla/glean_parser/pull/769))
-
-## 15.2.0
 
 - New Metric Type: `labeled_quantity` ([bug 1925346](https://bugzilla.mozilla.org/show_bug.cgi?id=1925346))
 
